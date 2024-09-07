@@ -1,4 +1,57 @@
 Assignment 1 for LMC2700
+<style>
+body {
+        margin: 0;
+        padding: 0;
+        background-color: #fefae0;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: 10%;
+        background-color: #f1f1f1;
+        text-align: center; 
+        line-height: 30px;
+        vertical-align: middle;
+        font-size: 17px;
+        font-family: monospace;
+        background-color: #faedcd;
+        color: #d4a373;
+    }
+    .main {
+        width: 90%;
+        padding: 20px;
+    }
+    .section {
+        display: flex;
+        margin-bottom: 40px;
+    }
+    .image{
+        max-width: 80%;
+    }
+    
+    .content {
+        width: 65%;
+        padding-left: 20px;
+    }
+    #Heading{
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+        font-family: monospace;
+        color: #6f1d1b;
+    }
+    .headers{
+        font-family: monospace;
+        color: #7f4f24;
+    }
+    .description{
+        font-family: monospace;
+        font-size: 15px;
+        color: #432818;
+    }
+</style>
 <!DOCTYPE html>
 <html>
 <head>
